@@ -1,4 +1,4 @@
-# Atlas Signal – Regional Climate Analysis and Reasoning Engine
+# 🌍📡 Atlas Signal — Regional Climate Analysis & Reasoning Engine
 
 Atlas Signal is a professional decision-support system designed for regional climate analysis. It leverages a deterministic, rule-based reasoning engine to evaluate geographic regions based on multiple climate factors, generating structured diagnostics for Human Comfort, Agriculture Suitability, Solar Energy Potential, and Climate Risk.
 
